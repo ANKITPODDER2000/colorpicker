@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c523d03fcd7a258446489d0831433fa2",
+    "revision": "8ec05221487288c9767398444d6392cf",
     "url": "/colorpicker/index.html"
   },
   {
-    "revision": "2692d8102658e05cea29",
+    "revision": "cb06ef2cc53ba66aec3f",
     "url": "/colorpicker/static/css/2.0da342d8.chunk.css"
   },
   {
-    "revision": "2915d94c7f0b079a30dc",
-    "url": "/colorpicker/static/css/main.5ea5646e.chunk.css"
+    "revision": "324e3bba6a092b1428d8",
+    "url": "/colorpicker/static/css/main.2b283183.chunk.css"
   },
   {
-    "revision": "2692d8102658e05cea29",
-    "url": "/colorpicker/static/js/2.45cf7d75.chunk.js"
+    "revision": "cb06ef2cc53ba66aec3f",
+    "url": "/colorpicker/static/js/2.3ab4fb8a.chunk.js"
   },
   {
     "revision": "89c83479ebcf6bafd86be133d3697409",
-    "url": "/colorpicker/static/js/2.45cf7d75.chunk.js.LICENSE.txt"
+    "url": "/colorpicker/static/js/2.3ab4fb8a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2915d94c7f0b079a30dc",
-    "url": "/colorpicker/static/js/main.8aac4cee.chunk.js"
+    "revision": "324e3bba6a092b1428d8",
+    "url": "/colorpicker/static/js/main.47573e05.chunk.js"
   },
   {
     "revision": "3aca2fc1879197d6c2c8",

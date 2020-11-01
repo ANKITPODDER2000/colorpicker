@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/colorpicker/static/css/main.5ea5646e.chunk.css",
-    "main.js": "/colorpicker/static/js/main.8aac4cee.chunk.js",
-    "main.js.map": "/colorpicker/static/js/main.8aac4cee.chunk.js.map",
+    "main.css": "/colorpicker/static/css/main.2b283183.chunk.css",
+    "main.js": "/colorpicker/static/js/main.47573e05.chunk.js",
+    "main.js.map": "/colorpicker/static/js/main.47573e05.chunk.js.map",
     "runtime-main.js": "/colorpicker/static/js/runtime-main.61807fb4.js",
     "runtime-main.js.map": "/colorpicker/static/js/runtime-main.61807fb4.js.map",
     "static/css/2.0da342d8.chunk.css": "/colorpicker/static/css/2.0da342d8.chunk.css",
-    "static/js/2.45cf7d75.chunk.js": "/colorpicker/static/js/2.45cf7d75.chunk.js",
-    "static/js/2.45cf7d75.chunk.js.map": "/colorpicker/static/js/2.45cf7d75.chunk.js.map",
+    "static/js/2.3ab4fb8a.chunk.js": "/colorpicker/static/js/2.3ab4fb8a.chunk.js",
+    "static/js/2.3ab4fb8a.chunk.js.map": "/colorpicker/static/js/2.3ab4fb8a.chunk.js.map",
     "index.html": "/colorpicker/index.html",
-    "precache-manifest.77025fed46a58fa81f7b64477644e9e9.js": "/colorpicker/precache-manifest.77025fed46a58fa81f7b64477644e9e9.js",
+    "precache-manifest.82813d6c66ce227a41e53f7a566a2a8c.js": "/colorpicker/precache-manifest.82813d6c66ce227a41e53f7a566a2a8c.js",
     "service-worker.js": "/colorpicker/service-worker.js",
     "static/css/2.0da342d8.chunk.css.map": "/colorpicker/static/css/2.0da342d8.chunk.css.map",
-    "static/css/main.5ea5646e.chunk.css.map": "/colorpicker/static/css/main.5ea5646e.chunk.css.map",
-    "static/js/2.45cf7d75.chunk.js.LICENSE.txt": "/colorpicker/static/js/2.45cf7d75.chunk.js.LICENSE.txt",
+    "static/css/main.2b283183.chunk.css.map": "/colorpicker/static/css/main.2b283183.chunk.css.map",
+    "static/js/2.3ab4fb8a.chunk.js.LICENSE.txt": "/colorpicker/static/js/2.3ab4fb8a.chunk.js.LICENSE.txt",
     "static/media/bg.svg": "/colorpicker/static/media/bg.77428cd4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.61807fb4.js",
     "static/css/2.0da342d8.chunk.css",
-    "static/js/2.45cf7d75.chunk.js",
-    "static/css/main.5ea5646e.chunk.css",
-    "static/js/main.8aac4cee.chunk.js"
+    "static/js/2.3ab4fb8a.chunk.js",
+    "static/css/main.2b283183.chunk.css",
+    "static/js/main.47573e05.chunk.js"
   ]
 }
